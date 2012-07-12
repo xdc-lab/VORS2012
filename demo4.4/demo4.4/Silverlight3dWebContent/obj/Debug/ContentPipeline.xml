@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>F:\documents\Visual Studio 2008\Projects\demo4.4\demo4.4\Silverlight3dWebContent\</RootDirectory>
+      <LoggerRootDirectory Null="true" />
+      <IntermediateDirectory>F:\documents\Visual Studio 2008\Projects\demo4.4\demo4.4\Silverlight3dWebContent\obj\Debug\</IntermediateDirectory>
+      <OutputDirectory>F:\documents\Visual Studio 2008\Projects\demo4.4\demo4.4\Silverlight3dWebContent\bin\AnyCPU\Debug\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-01-26T13:55:52.1240234+00:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

@@ -1,0 +1,14 @@
+﻿<xapCache source="F:\documents\Visual Studio 2008\Projects\demo4.4\demo4.4\Silverlight3dApp\Bin\Debug\Silverlight3dApp.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="03/07/2012 16:18:59">
+  <file source="F:\documents\Visual Studio 2008\Projects\demo4.4\demo4.4\Silverlight3dApp\obj\Debug\Silverlight3dApp.dll" archivePath="Silverlight3dApp.dll" lastWriteTime="03/07/2012 16:18:58" />
+  <file source="C:\Program Files\Microsoft SDKs\Silverlight\v5.0\Toolkit\dec11\Bin\Microsoft.Xna.Framework.Content.dll" archivePath="Microsoft.Xna.Framework.Content.dll" lastWriteTime="09/12/2011 10:25:04" />
+  <file source="c:\Program Files\Microsoft SDKs\Silverlight\v5.0\Libraries\Client\Microsoft.Xna.Framework.Graphics.Extensions.dll" archivePath="Microsoft.Xna.Framework.Graphics.Extensions.dll" lastWriteTime="18/11/2011 17:40:20" />
+  <file source="c:\Program Files\Microsoft SDKs\Silverlight\v5.0\Libraries\Client\Microsoft.Xna.Framework.Math.dll" archivePath="Microsoft.Xna.Framework.Math.dll" lastWriteTime="18/11/2011 17:40:20" />
+  <file source="C:\Program Files\Microsoft SDKs\Silverlight\v5.0\Toolkit\dec11\Bin\Microsoft.Xna.Framework.Toolkit.dll" archivePath="Microsoft.Xna.Framework.Toolkit.dll" lastWriteTime="09/12/2011 10:23:52" />
+  <file source="c:\Program Files\Microsoft SDKs\Silverlight\v5.0\Libraries\Client\System.Xml.Linq.dll" archivePath="System.Xml.Linq.dll" lastWriteTime="18/11/2011 17:40:20" />
+  <file source="F:\documents\Visual Studio 2008\Projects\demo4.4\demo4.4\Silverlight3dApp\Data\pubsdata.xml" archivePath="Data\pubsdata.xml" lastWriteTime="19/05/2012 10:51:00" />
+  <file source="F:\documents\Visual Studio 2008\Projects\demo4.4\demo4.4\Silverlight3dApp\Data\researchOEIdata.xml" archivePath="Data\researchOEIdata.xml" lastWriteTime="19/05/2012 10:51:00" />
+  <file source="F:\documents\Visual Studio 2008\Projects\demo4.4\demo4.4\Silverlight3dApp\Data\RTEdata.xml" archivePath="Data\RTEdata.xml" lastWriteTime="19/05/2012 10:51:00" />
+  <file source="F:\documents\Visual Studio 2008\Projects\demo4.4\demo4.4\Silverlight3dApp\Data\schStuffData.xml" archivePath="Data\schStuffData.xml" lastWriteTime="19/05/2012 10:51:01" />
+  <file source="F:\documents\Visual Studio 2008\Projects\demo4.4\demo4.4\Silverlight3dAppContent\bin\AnyCPU\Debug\CustomEffect.xnb" archivePath="Content\CustomEffect.xnb" lastWriteTime="19/05/2012 10:59:08" />
+  <file source="F:\documents\Visual Studio 2008\Projects\demo4.4\demo4.4\Silverlight3dApp\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="19/05/2012 11:00:22" />
+</xapCache>

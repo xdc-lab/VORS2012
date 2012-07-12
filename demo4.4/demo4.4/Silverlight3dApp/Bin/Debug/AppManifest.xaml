@@ -1,0 +1,10 @@
+﻿<Deployment xmlns="http://schemas.microsoft.com/client/2007/deployment" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" EntryPointAssembly="Silverlight3dApp" EntryPointType="Silverlight3dApp.App" RuntimeVersion="5.0.61118.0">
+  <Deployment.Parts>
+    <AssemblyPart x:Name="Silverlight3dApp" Source="Silverlight3dApp.dll" />
+    <AssemblyPart x:Name="Microsoft.Xna.Framework.Content" Source="Microsoft.Xna.Framework.Content.dll" />
+    <AssemblyPart x:Name="Microsoft.Xna.Framework.Graphics.Extensions" Source="Microsoft.Xna.Framework.Graphics.Extensions.dll" />
+    <AssemblyPart x:Name="Microsoft.Xna.Framework.Math" Source="Microsoft.Xna.Framework.Math.dll" />
+    <AssemblyPart x:Name="Microsoft.Xna.Framework.Toolkit" Source="Microsoft.Xna.Framework.Toolkit.dll" />
+    <AssemblyPart x:Name="System.Xml.Linq" Source="System.Xml.Linq.dll" />
+  </Deployment.Parts>
+</Deployment>
